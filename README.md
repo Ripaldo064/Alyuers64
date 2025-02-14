@@ -51,7 +51,7 @@
 [<img align="left" alt="PHP" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Ar" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-arduino-226072.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Ar" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/moodle_original_logo_icon_146420.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Ar" width="40px" src="https://www.pngwing.com/id/free-png-mwwkb" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
